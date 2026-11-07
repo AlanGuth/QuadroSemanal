@@ -18,5 +18,8 @@ Artifact único (HTML/CSS/JS) com duas abas, dados na capability `db` do artifac
 - Post-it: botão de cor abre seletor com as 12 cores. Composer do Tasks e gerenciador de projetos também têm 12.
 - Diferença restante: cabeçalho de coluna com faixa no Tasks, sem faixa no Projetos.
 
+## Cartões do Projetos
+- Ações no topo do cartão (como no Tasks): clonar (cópia logo abaixo, mesma coluna e projeto), apagar; embaixo ficam só o projeto e o seletor para trocá-lo. Mover entre colunas por arrastar; as setas ‹ › só aparecem em telas de toque (onde arrastar não funciona bem).
+
 ## Arquivos
 - `claude/painel-pessoal.html`: backup do código publicado.
